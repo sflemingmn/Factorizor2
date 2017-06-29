@@ -1,0 +1,8 @@
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLLTests\bin\Debug\Factorizor3.BLLTests.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLLTests\bin\Debug\Factorizor3.BLLTests.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLLTests\bin\Debug\Factorizor3.BLL.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLLTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLLTests\bin\Debug\Factorizor3.BLL.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLLTests\obj\Debug\Factorizor3.BLLTests.csprojResolveAssemblyReference.cache
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLLTests\obj\Debug\Factorizor3.BLLTests.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLLTests\obj\Debug\Factorizor3.BLLTests.pdb

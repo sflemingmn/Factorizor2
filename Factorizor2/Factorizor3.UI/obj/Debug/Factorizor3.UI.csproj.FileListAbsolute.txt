@@ -1,0 +1,11 @@
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.UI\bin\Debug\Factorizor3.UI.exe.config
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.UI\bin\Debug\Factorizor3.UI.exe
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.UI\bin\Debug\Factorizor3.UI.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.UI\bin\Debug\Factorizor3.BLL.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.UI\bin\Debug\Factorizor3.BLL.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.UI\obj\Debug\Factorizor3.UI.csprojResolveAssemblyReference.cache
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.UI\obj\Debug\Factorizor3.UI.exe
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.UI\obj\Debug\Factorizor3.UI.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor2\Factorizor3.UI\bin\Debug\Factorizor3.UI.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor2\Factorizor3.UI\obj\Debug\Factorizor3.UI.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor2\Factorizor3.UI\obj\Debug\Factorizor3.UI.pdb

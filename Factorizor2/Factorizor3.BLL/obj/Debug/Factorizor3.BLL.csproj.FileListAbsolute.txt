@@ -1,0 +1,5 @@
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLL\bin\Debug\Factorizor3.BLL.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLL\bin\Debug\Factorizor3.BLL.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLL\obj\Debug\Factorizor3.BLL.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLL\obj\Debug\Factorizor3.BLL.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.BLL\obj\Debug\Factorizor3.BLL.csprojResolveAssemblyReference.cache

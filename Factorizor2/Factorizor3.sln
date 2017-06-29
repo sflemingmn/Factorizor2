@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorizor3.UI", "Factorizor3.UI\Factorizor3.UI.csproj", "{0B28A352-C1A7-4CE5-8E0D-0C6E0E31E395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorizor3.BLL", "Factorizor3.BLL\Factorizor3.BLL.csproj", "{2B22D36A-AF0C-48C0-8868-55350DAAA006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorizor3.Tests", "Factorizor3.Tests\Factorizor3.Tests.csproj", "{A9731ABE-54EB-4A3A-B0E7-84200D315357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B28A352-C1A7-4CE5-8E0D-0C6E0E31E395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B28A352-C1A7-4CE5-8E0D-0C6E0E31E395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B28A352-C1A7-4CE5-8E0D-0C6E0E31E395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B28A352-C1A7-4CE5-8E0D-0C6E0E31E395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B22D36A-AF0C-48C0-8868-55350DAAA006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B22D36A-AF0C-48C0-8868-55350DAAA006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B22D36A-AF0C-48C0-8868-55350DAAA006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B22D36A-AF0C-48C0-8868-55350DAAA006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9731ABE-54EB-4A3A-B0E7-84200D315357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9731ABE-54EB-4A3A-B0E7-84200D315357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9731ABE-54EB-4A3A-B0E7-84200D315357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9731ABE-54EB-4A3A-B0E7-84200D315357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

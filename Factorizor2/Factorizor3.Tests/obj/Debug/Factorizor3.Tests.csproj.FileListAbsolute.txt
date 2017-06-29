@@ -1,0 +1,9 @@
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\bin\Debug\Factorizor3.Tests.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\bin\Debug\Factorizor3.Tests.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\bin\Debug\Factorizor3.BLL.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\bin\Debug\nunit.framework.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\bin\Debug\Factorizor3.BLL.pdb
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\bin\Debug\nunit.framework.xml
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\obj\Debug\Factorizor3.Tests.csprojResolveAssemblyReference.cache
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\obj\Debug\Factorizor3.Tests.dll
+c:\users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Factorizor3\Factorizor3.Tests\obj\Debug\Factorizor3.Tests.pdb
